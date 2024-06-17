@@ -1,1 +1,1 @@
-Created a chatboy using Amazon Lex and Cloud Formation
+Created a chatbot using Amazon Lex and Cloud Formation
